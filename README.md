@@ -5,3 +5,9 @@ Developed from scratch using only JAVA standard libraries.
 Use the arrow keys to move.
 Use the spacebar to shoot.
 Use the p button to pause.
+
+
+# Screenshots
+![](1.png)
+![](2.png)
+![](3.png)
